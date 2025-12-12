@@ -2,7 +2,7 @@
 The Car Rental Management System is a desktop-based  application developed using Python and Tkinter
 
 ****
-Tools & Technologies Used**** 
+#Tools & Technologies Used**** 
 1. Python 
 Main programming language used for logic and structure. 
 2. Tkinter 
